@@ -15,8 +15,6 @@ android.minapi = 23
 android.archs = arm64-v8a
 android.allow_backup = 0
 android.release_artifact = apk
-
-android.release_artifact = apk
 android.accept_sdk_license = True
 
 [buildozer]
